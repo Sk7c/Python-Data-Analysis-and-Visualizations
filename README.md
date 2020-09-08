@@ -1,8 +1,11 @@
-# Titanic_data_analysis
+# Python analysis and visualizations
+
+Titanic_data_analysis
+
 Titanic dataset has information about passengers onboard.
 
 Python Pandas Data Frame is used for data analysis. 
 
-#Matplotlib
+Matplotlib
 
 Creation of simple plots using matplotlib
